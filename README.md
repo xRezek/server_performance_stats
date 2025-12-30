@@ -8,7 +8,7 @@ It is a bash script to analyse some basic server stats such as cpu usage, ram us
 **Clone repository**
 ```
 git clone https://github.com/xRezek/server_performance_stats.git
-cd server_performance stats
+cd server_performance_stats
 ```
 ### STEP 2
 **Add proper permissions**
