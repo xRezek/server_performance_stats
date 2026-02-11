@@ -1,6 +1,6 @@
 # Server perfomance stats
 
-It is a bash script to analyse some basic server stats such as cpu usage, ram usage, average load and disk usage. Script also list top 5 CPU and RAM consuming processes. 
+This is a Bash script that analyzes basic server statistics such as CPU usage, RAM usage, load average, and disk usage. It also lists the top 5 CPU- and RAM-consuming processes.
 
 ## Installation Guide
 
